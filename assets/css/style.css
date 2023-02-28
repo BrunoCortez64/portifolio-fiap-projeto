@@ -13,11 +13,7 @@ header{
     background-image: url("../imagens/ak47skin.jpg");
     background-size: cover;
     height: 100vh;
-    padding: 60rem 9.0rem;
-}
-img{
-    height: 40rem;
-    width: 60rem;
+    padding-left: 80rem;
 }
 
 h1{
@@ -25,10 +21,26 @@ h1{
     font-weight: 900;
     color: #FFF;
     font-family: 'Poppins';
+    padding: 1rem 10rem;
+    
 }
+
 
 span{
     font-size: 4rem;
     color: #FFF;
+    padding-left: 35rem;
+}
+    
+img{
+        height: 40rem;
+        width: 60rem;}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.75rem;
 
 }
